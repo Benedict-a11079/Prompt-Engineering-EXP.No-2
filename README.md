@@ -219,7 +219,8 @@ ChatGPT 5 5 5 3 5 23
 Gemini 5 5 5 3 5 23 
 Claude 5 5 5 3 5 25 
 Copilot 5 5 4 3 4 21 
-pdf link:[Uploading Ex2.text.summarization.across.different.platforms.pdf…]()
+
+
 
 RESULT:
 The experiment completed and output is verified
